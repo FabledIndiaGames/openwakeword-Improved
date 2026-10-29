@@ -1,3 +1,5 @@
+WIP/Please wait.
+
 # openwakeword-Improved
 Train custom wakeword, wakeup words for free in Google Colab, under 30 minutes for a small set of phrases with flawless accuracy (Based on 2 phrases, more phrases more training time, over 6 trained under 40 minutes only). Updated workflow Nov 2026. Fixed redundent dependecy issues and improved workflow for faster better generation.
 
